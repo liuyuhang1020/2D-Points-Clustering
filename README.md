@@ -1,1 +1,1 @@
-# 2022-Mathorcup-D
+# 2D-point-clustering
